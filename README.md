@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shiksha-Dwivedi
 - 👀 I’m interested in software development
 - 🌱 I have learnt HTML,CSS,reactjs,javascript,java programming 
-- 💞️ I’m currently learning android development
 - 📫 How to reach me mail- shikshadwivedi05@gmail.com
 
 <!---
